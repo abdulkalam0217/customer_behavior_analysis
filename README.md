@@ -95,5 +95,5 @@ The Power BI dashboard provides:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/abdulkalam/customer_behavior_analysis.git
+git clone https://github.com/abdulkalam0217/customer_behavior_analysis.git
 
